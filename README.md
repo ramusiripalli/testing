@@ -1,1 +1,1 @@
-# testing
+# Skeleton project for Swagger
